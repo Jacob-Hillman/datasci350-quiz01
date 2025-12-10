@@ -1,4 +1,4 @@
-# QTM 350 - Data Science Computing
+# DATASCI 350 - Data Science Computing
 
 ## Quiz 01 - Forking and Enhancing an Existing GitHub Repository
 
